@@ -31,7 +31,7 @@ This repository is a collection of:
 ---
 
 ### 💬 My Favorite Quote:
-> "Dreams don’t work unless you do."
-> "Make it private until it is permanent."
+> "Dreams don’t work unless you do.
+> Make it private until it is permanent."
 
 Feel free to explore and stay inspired! 🌸
