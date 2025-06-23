@@ -26,6 +26,8 @@ This repository is a collection of:
 - [Career Vision](./Dreams-and-Goals/Career-Vision.md)
 
 ## 🙏Quantitative Aptitude and Reasoning
+-[Numbers](-/Quantitative-Aptitude-and-Reasoning/Numbers.md)
+
 
 
 ---
