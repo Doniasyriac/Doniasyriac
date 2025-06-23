@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm DONIA SYRIAC</h1>
-- 🔭 I’m currently working on **projects hosted on Github, focusing on version control, collaboration and code management.**
+# 🌟 Donia's Digital Diary
 
-- 🌱 I’m currently learning **programming languages like python, java, C, C++.**
+Welcome to my personal knowledge and inspiration repository! I'm Donia, a Computer Science Engineering student with big dreams, a strong faith, and a passion for learning and growing.
 
-- 👯 I’m looking to collaborate on **open-source projects related to data science, machine learning and web development on GitHub.**
+This repository is a collection of:
+- 📘 Computer Science notes for easy revision
+- ✍️ Personal articles and reflections
+- 🌈 Life goals and dreams I’m working towards
+- 🙏 Quantitative Aptitude and Reasoning
 
-- 🤝 I’m looking for help with **understanding advanced GitHub features such as effective use of GitHub Actions and best practices for collaborative coding.**
+---
 
-- 💬 Ask me about **"Hello, my name is Donia Syriac and I am honoured to be a Reliance Foundation Undergraduate Scholar. I am currently pursing my B.Tech degree in computer science Engineering at Saintgits College Of Engineering, Kerala.**
+## 📚 CS Notes
 
-- 📫 How to reach me **syriacdonia2004@gmail.com**
+- [Programming](./CS-Notes/Programming.md)
+- [Data Structures](./CS-Notes/Data-Structures.md)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/donia-syriac-b7a09128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donia-syriac-b7a09128a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syriacdonia2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syriacdonia2004@gmail.com" height="30" width="40" /></a>
-</p>
+## ✍️ Articles
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- [Study Tips](./Articles/Study-Tips.md)
+- [Time Management](./Articles/Time-Management.md)
 
+## 🌈 Dreams & Goals
+
+- [Life Goals](./Dreams-and-Goals/Life-Goals.md)
+- [Career Vision](./Dreams-and-Goals/Career-Vision.md)
+
+## 🙏Quantitative Aptitude and Reasoning
+
+
+---
+
+### 💬 My Favorite Quote:
+> "Dreams don’t work unless you do."
+> "Make it private until it is permanent."
+
+Feel free to explore and stay inspired! 🌸
