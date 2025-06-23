@@ -27,6 +27,7 @@ This repository is a collection of:
 
 ## 🙏Quantitative Aptitude and Reasoning
 -[Numbers](-/Quantitative-Aptitude-and-Reasoning/Numbers.md)
+-[Time and Work](-/Quantitative-Aptitude-and-Reasoning/Time-and-Work.md)
 
 
 
